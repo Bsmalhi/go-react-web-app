@@ -1,0 +1,5 @@
+tmp/
+.vscode
+.idea
+.DS_Store
+go.sum
