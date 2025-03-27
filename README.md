@@ -9,6 +9,9 @@
 ### Using godotenv pkg to parge .env variables
 ``` go get github.com/joho/godotenv@latest ```
 
+### Using go MongoDB driver for DB connection
+``` go get -u go.mongodb.org/mongo-driver/mongo ```
+
 ### To run app
 ```go
 go mod tidy
