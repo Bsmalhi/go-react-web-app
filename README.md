@@ -17,3 +17,10 @@
 go mod tidy
 Air
 ```
+
+# React UI client app
+ UI template [chakra](https://chakra-ui.com/docs/get-started/frameworks/vite)
+ React state management [TanStack query](https://tanstack.com/query/latest/docs/framework/react/installation)
+
+
+
